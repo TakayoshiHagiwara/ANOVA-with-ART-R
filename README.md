@@ -1,5 +1,5 @@
 # ANOVA with ART
-<img src="https://img.shields.io/badge/R-4.0.2-blue?&logo=R"> <img src="https://img.shields.io/badge/License-MIT-green">
+<img src="https://img.shields.io/badge/R-4.0.2-blue?&logo=R"> <img src="https://img.shields.io/badge/License-GPL v3.0-green">
 
 
 ANOVA with ART (aligned rank transformation) procedure (Wobbrock, Findlater, Gergle, & Higgins, 2011)のためのRサンプルです。
@@ -88,4 +88,4 @@ install.packages("effsize") # Optional
 
 
 # License
-- MIT License
+- GPL v3.0
